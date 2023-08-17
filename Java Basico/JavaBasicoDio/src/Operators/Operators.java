@@ -3,7 +3,6 @@ package Operators;
 import java.util.Date;
 
 public class Operators {
-
     //Operador de atribuição =
     String name = "Jackson";
     Integer number = 123;

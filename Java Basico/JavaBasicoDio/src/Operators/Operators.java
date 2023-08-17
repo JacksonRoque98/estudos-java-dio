@@ -24,7 +24,7 @@ public class Operators {
 
     //Operador + usado em texto faz a concatenação das Strings!
     Integer number1 = 1;
-    String name1 = "Jack"
+    String name1 = "Jack";
     String concatenacao = number1 + name1; //1Jack
 
     //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

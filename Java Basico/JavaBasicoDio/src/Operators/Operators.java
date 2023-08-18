@@ -43,5 +43,20 @@ public class Operators {
     Integer b = 6;
 
     String result = a == b ? "verdadeiro" : "False";
+    //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    //Operadores Relacionais
+    //(==) quando desejamos verificar se uma variavel é igual a outra
+    //(!=) quando desejamos verificar se uma variavel é diferente da outra
+    //(>) quando desejamos verificar se uma variavel é maior que a outra
+    //(>=) quando desejamos verificar se uma variavel é maior ou igual a outra
+    //(<) quando desejamos verificar se uma variavel é menor que a outra
+    //(<=) quando desejamos verificar se uma variavel é menor ou igual a outra
+    //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+    //Operadores logicos
+    //(&&) = E
+    //(||) = OU
+
+
 
 }

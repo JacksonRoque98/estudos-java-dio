@@ -2,7 +2,7 @@ package Methods;
 
 public class Methods {
 
-    /*#Métodos
+      /*#Métodos
     Todas as ações das aplicações são consideradas métodos.
 
     Uma classe é definida por atributos e métodos. Já vimos que atributos são, em sua grande maioria,
@@ -19,6 +19,7 @@ public class Methods {
     2-Seguir o padrão camelCase (Todas as letras minúsculas com a exceção da primeira letra da segunda palavra).
     Exemplos sugeridos para nomenclatura de métodos:  */
 
+    /*
     somar(int n1, int n2) {
     }
 
@@ -29,10 +30,13 @@ public class Methods {
     }
 
     findById(int id) {
-    } //
+    } */
 
+    /*
     calcularImprimir() {
     } // metodo nomeado de forma errada, os metodos devem possuir apenas 1 finalidade!
+    */
+
 
     /*#Critério de definição de métodos:
     Mas, como sabemos a melhor forma, de definir os métodos das nossas classes?
@@ -53,6 +57,8 @@ public class Methods {
      somente em pacotes, através de herança ou somente a nível a própria classe.
 */
 
+
+    /*
     public class MyClass {
 
         public double somar(int num1, int num2) {
@@ -99,6 +105,6 @@ public class Methods {
         public void gravar(Cliente cliente) {
         }
     }
-
+    */
 
 }
